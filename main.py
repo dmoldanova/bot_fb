@@ -7,7 +7,7 @@ import config
 import json
 
 app = Flask(__name__)
-id_app = '329898244220560'
+id_app = ''
 
 bot = Bot(config.TOKEN)
 
