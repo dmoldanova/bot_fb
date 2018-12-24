@@ -1,0 +1,4 @@
+TOKEN = ''
+VERIFY_TOKEN = 'SECRETCOD'
+
+num = 0
